@@ -1,7 +1,7 @@
 {
-	"name": "rector/cleaning-packages",
-	"license": "MIT",
-	"type": "package",
-	"require": {
-	}
+    "name": "rector/cleaning-packages",
+    "license": "MIT",
+    "type": "package",
+    "require": {
+    }
 }
