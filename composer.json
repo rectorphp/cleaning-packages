@@ -11,6 +11,7 @@
         "phpstan/phpstan-symfony": "*",
         "phpecs/phpecs": "*",
         "symplify/phpstan-extensions": "*",
-        "symplify/phpstan-rules": "*"
+        "symplify/phpstan-rules": "*",
+        "shipmonk/composer-dependency-analyser": "*"
     }
 }
