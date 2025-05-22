@@ -4,7 +4,6 @@
     "type": "package",
     "require": {
         "php": ">=7.2",
-        "phpstan/phpstan": "*",
         "phpstan/extension-installer": "*",
         "phpstan/phpstan-doctrine": "*",
         "phpstan/phpstan-phpunit": "*",
