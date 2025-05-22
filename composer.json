@@ -3,5 +3,14 @@
     "license": "MIT",
     "type": "package",
     "require": {
+        "php": ">=7.2",
+        "phpstan/phpstan": "*",
+        "phpstan/extension-installer": "*",
+        "phpstan/phpstan-doctrine": "*",
+        "phpstan/phpstan-phpunit": "*",
+        "phpstan/phpstan-symfony": "*",
+        "phpecs/phpecs": "*",
+        "symplify/phpstan-extensions": "*",
+        "symplify/phpstan-rules": "*"
     }
 }
