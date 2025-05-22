@@ -1,10 +1,14 @@
-# Cleaning Packages in one Metapackage
+# All Cleaning Packages in one Place
 
-This repository contains a collection of cleaning packages for PHP projects, that take code quality to the next level.
+This repository contains a collection of cleaning packages for PHP devs, who want to take code quality to the next level...
 
-...and are lazy to automate as much work as possible.
+...and are enough lazy to delegate as much work as possible to automated tools.
 
-They're collection of CLI tools and PHPStan extensions (some of them you can find in detail in [tomasvotruba.com/tools](https://tomasvotruba.com/tools).
+<br>
+
+It's a collection of CLI tools and PHPStan extensions (some of them you can find in [tomasvotruba.com/tools](https://tomasvotruba.com/tools)).
+
+<br>
 
 ## Install
 
