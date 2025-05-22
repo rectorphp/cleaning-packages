@@ -12,6 +12,14 @@
         "phpecs/phpecs": "*",
         "symplify/phpstan-extensions": "*",
         "symplify/phpstan-rules": "*",
-        "shipmonk/composer-dependency-analyser": "*"
+        "shipmonk/composer-dependency-analyser": "*",
+        "rector/type-perfect": "*",
+        "rector/swiss-knife": "*",
+        "tomasvotruba/type-coverage": "*",
+        "tomasvotruba/unused-public": "*",
+        "tomasvotruba/class-leak": "*"
+    },
+    "config": {
+        "sort-packages": true
     }
 }
