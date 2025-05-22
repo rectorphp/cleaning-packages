@@ -1,0 +1,7 @@
+{
+	"name": "rector/cleaning-packages",
+	"license": "MIT",
+	"type": "package",
+	"require": {
+	}
+}
