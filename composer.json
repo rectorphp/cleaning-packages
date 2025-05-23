@@ -15,6 +15,7 @@
         "shipmonk/composer-dependency-analyser": "*",
         "rector/type-perfect": "*",
         "rector/swiss-knife": "*",
+        "rector/jack": "*",
         "tomasvotruba/type-coverage": "*",
         "tomasvotruba/unused-public": "*",
         "tomasvotruba/class-leak": "*"
