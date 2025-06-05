@@ -2,15 +2,11 @@
     "name": "rector/cleaning-packages",
     "description": "Meta composer-package to never forget any important dev packages in your project",
     "license": "MIT",
-<<<<<<< HEAD
     "type": "metapackage",
-=======
-    "type": "package",
     "bin": [
         "vendor/bin/jack",
         "vendor/bin/swiss-knife"
     ],
->>>>>>> 51f3732 (link through bin files)
     "require": {
         "php": ">=7.2",
         "phpstan/extension-installer": "*",
