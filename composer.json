@@ -12,21 +12,21 @@
     ],
     "require": {
         "php": ">=7.2",
-        "phpstan/extension-installer": "*",
-        "phpstan/phpstan-doctrine": "*",
-        "phpstan/phpstan-phpunit": "*",
-        "phpstan/phpstan-symfony": "*",
-        "phpecs/phpecs": "*",
-        "symplify/phpstan-extensions": "*",
-        "symplify/phpstan-rules": "*",
-        "shipmonk/composer-dependency-analyser": "*",
-        "rector/type-perfect": "*",
-        "rector/swiss-knife": "*",
-        "rector/jack": "*",
-        "tomasvotruba/type-coverage": "*",
-        "tomasvotruba/unused-public": "*",
-        "tomasvotruba/class-leak": "*",
-        "php-parallel-lint/php-parallel-lint": "*"
+        "phpstan/extension-installer": ">=1.4",
+        "phpstan/phpstan-doctrine": ">=2.0",
+        "phpstan/phpstan-phpunit": ">=2.0",
+        "phpstan/phpstan-symfony": ">=2.0",
+        "phpecs/phpecs": ">=2.1",
+        "symplify/phpstan-extensions": ">=12.0",
+        "symplify/phpstan-rules": ">=14.6",
+        "shipmonk/composer-dependency-analyser": ">=1.8",
+        "rector/type-perfect": ">=2.1",
+        "rector/swiss-knife": ">=2.2",
+        "rector/jack": ">=0.2",
+        "tomasvotruba/type-coverage": ">=2.0",
+        "tomasvotruba/unused-public": ">=2.0",
+        "tomasvotruba/class-leak": ">=2.0",
+        "php-parallel-lint/php-parallel-lint": ">=1.4"
     },
     "config": {
         "sort-packages": true,
@@ -35,3 +35,4 @@
         }
     }
 }
+
