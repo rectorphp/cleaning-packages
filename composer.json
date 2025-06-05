@@ -5,7 +5,10 @@
     "type": "metapackage",
     "bin": [
         "vendor/bin/jack",
-        "vendor/bin/swiss-knife"
+        "vendor/bin/swiss-knife",
+        "vendor/bin/parallel-lint",
+        "vendor/bin/ecs",
+        "vendor/bin/class-leak"
     ],
     "require": {
         "php": ">=7.2",
@@ -22,9 +25,13 @@
         "rector/jack": "*",
         "tomasvotruba/type-coverage": "*",
         "tomasvotruba/unused-public": "*",
-        "tomasvotruba/class-leak": "*"
+        "tomasvotruba/class-leak": "*",
+        "php-parallel-lint/php-parallel-lint": "*"
     },
     "config": {
-        "sort-packages": true
+        "sort-packages": true,
+        "allow-plugins": {
+            "phpstan/extension-installer": true
+        }
     }
 }
